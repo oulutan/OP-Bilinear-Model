@@ -5,7 +5,7 @@ This repository contains the code for our WACV 2018 paper:
 https://arxiv.org/abs/1712.07721
 
 Instruction will be added.
-
+```
 @inproceedings{
 	author		= {Oytun Ulutan and Benjamin Riggan and Nasser Nasrabadi and B.S. Manjunath},
 	title		= {A Bilinear Model for Person Detection in Multi-Modal Data},
@@ -15,3 +15,4 @@ Instruction will be added.
 	year		= {2018},
 	url		= {https://vision.ece.ucsb.edu/sites/vision.ece.ucsb.edu/files/publications/201803_wacv_ulutan.pdf},
 }
+```
